@@ -12,17 +12,32 @@ In this profile, as you join my in my journey, I'll be sharing my projects and e
 
 <br>
 
-## Technologies I've learned and/or I'm currently learning 🛠️
+## Technologies I've learned  🛠️
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() 
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 
+- Backend Technologies: Python
 
+## Technologies I'm currently learning 🛠️
+
+[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 
 - Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python
 - Front-End Frameworks: React, Vue.js
 
+<br>
 
+## Contact Me 📫
+
+If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](www.linkedin.com/in/manuel-aguilera-codes)
+</br>
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=manuel.aguilera.vr%40gmail.com&labelColor=black&color=%23EA4335)](mailto:manuel.aguilera.vr@gmail.com)
+
+<br>
+
+I hope you enjoy exploring my repositories! Thanks for visiting! 👋
 
 
 <!--
