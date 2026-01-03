@@ -1,6 +1,6 @@
-## Hi there! This is Manuel Aguilera
+# Hi there! This is Manuel Aguilera
 
-### Full-Stack Developer and Bitcoin Enthusiast 
+## Full-Stack Developer and Bitcoin Enthusiast 
 
 Hello! This is Manuel Aguilera, a passionate aspiring Full-Stack developer, and an AI and Bitcoin Enthusiast. Here I'll be sharing my journey in the world of web development and blockchain technology. Cheers from the paradise lands of Mexico!
 
